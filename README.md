@@ -1,2 +1,2 @@
 # youtube-downloader
-a simple project that can be used to download YouTube videos
+a simple python script project that you can use to download YouTube videos
